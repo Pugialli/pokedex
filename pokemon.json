@@ -1,0 +1,134 @@
+[
+   {
+      "name": "Bulbasauro",
+      "number": "1",
+      "type": "grama",
+      "status": {
+         "hp": "45",
+         "attack": "49",
+         "defense": "49",
+         "spatk": "65",
+         "spdef": "65",
+         "speed": "45",
+         "total": "318"
+      },
+      "abilities": {
+         "ability1": "Vine Whip",
+         "ability2": "Razor Leaf"
+      },
+      "images": {
+         "img": "bulbasaur.png",
+         "thumb": "cabeca-bulbasaur.png"
+      }
+   },
+   {
+      "name": "Charmander",
+      "number": "4",
+      "type": "fogo",
+      "status": {
+         "hp": "39",
+         "attack": "52",
+         "defense": "43",
+         "spatk": "60",
+         "spdef": "50",
+         "speed": "65",
+         "total": "309"
+      },
+      "abilities": {
+         "ability1": "Ember",
+         "ability2": "Flare Blitz"
+      },
+      "images": {
+         "img": "charmander.png",
+         "thumb": "cabeca-charmander.png"
+      }
+   },
+   {
+      "name": "Pikachu",
+      "number": "25",
+      "type": "eletrico",
+      "status": {
+         "hp": "35",
+         "attack": "55",
+         "defense": "40",
+         "spatk": "50",
+         "spdef": "50",
+         "speed": "90",
+         "total": "320"
+      },
+      "abilities": {
+         "ability1": "Thunderbolt",
+         "ability2": "Thunder"
+      },
+      "images": {
+         "img": "pikachu.png",
+         "thumb": "cabeca-pikachu.png"
+      }
+   },
+   {
+      "name": "Gengar",
+      "number": "94",
+      "type": "trevas",
+      "status": {
+         "hp": "60",
+         "attack": "65",
+         "defense": "60",
+         "spatk": "130",
+         "spdef": "75",
+         "speed": "110",
+         "total": "500"
+      },
+      "abilities": {
+         "ability1": "Shadow Ball",
+         "ability2": "Dream Eater"
+      },
+      "images": {
+         "img": "gengar.png",
+         "thumb": "cabeca-gengar.png"
+      }
+   },
+   {
+      "name": "Gyarados",
+      "number": "130",
+      "type": "agua",
+      "status": {
+         "hp": "95",
+         "attack": "125",
+         "defense": "79",
+         "spatk": "60",
+         "spdef": "100",
+         "speed": "81",
+         "total": "540"
+      },
+      "abilities": {
+         "ability1": "Hydro Pump",
+         "ability2": "Dragon Dance"
+      },
+      "images": {
+         "img": "gyarados.png",
+         "thumb": "cabeca-gyarados.png"
+      }
+   },
+   {
+      "name": "Dragonite",
+      "number": "149",
+      "type": "dragao",
+      "status": {
+         "hp": "91",
+         "attack": "134",
+         "defense": "95",
+         "spatk": "100",
+         "spdef": "100",
+         "speed": "80",
+         "total": "600"
+      },
+      "abilities": {
+         "ability1": "Dragon Dance",
+         "ability2": "Outrage"
+      },
+      "images": {
+         "img": "dragonite.png",
+         "thumb": "cabeca-dragonite.png"
+      }
+   }
+]
